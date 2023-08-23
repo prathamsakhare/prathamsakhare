@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Prathamesh!
 
-![Google Developer Student Clubs (GDSC) Lead](https://img.shields.io/badge/GDSC%20Lead-Active-blue?style=flat-square&logo=google)
+![Google DSC Lead](https://img.shields.io/badge/Google%20DSC%20Lead-Active-blue?style=flat-square&logo=google)
 
 I'm a passionate Full Stack Web Developer based in India. I love to Code. 
 
