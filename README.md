@@ -13,7 +13,7 @@ I'm a passionate Full Stack Web Developer based in India. I love to Code.
 
 ## 💼 Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-blue?style=flat-square&logo=javascript)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-blue?style=flat-square&logo=mongodb)
 ![Express.js](https://img.shields.io/badge/Express.js-Intermediate-blue?style=flat-square&logo=express)
