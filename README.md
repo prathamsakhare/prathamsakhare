@@ -9,7 +9,7 @@ I'm a passionate Full Stack Web Developer based in India. I love to Code.
 ## 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prathamesh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prathampsakhare/)
-[![Portfolio Site](https://img.shields.io/badge/Website-MyWebsite-blue?style=flat-square&logo=google-chrome)](https://tiny-pixie-c79520.netlify.app/)
+[![Portfolio Site](https://img.shields.io/badge/Website-MyWebsite-blue?style=flat-square&logo=google-chrome)](https://portfolio-prathamps.netlify.app/)
 
 ## 💼 Skills & Tools
 
