@@ -34,7 +34,7 @@ I'm a passionate Full Stack Web Developer based in India. I love to Code.
 
 ## 🛠️ Some of my projects
 
-[![RFID](https://github-readme-stats.vercel.app/api/pin/?username=prathamsakhare&repo=Movie-Search&theme=radical)](https://github.com/prathamsakhare/rfid-readme)
+[![RFID]()](https://github.com/prathamsakhare/rfid-readme)
 [![Crypto Data Application](https://github-readme-stats.vercel.app/api/pin/?username=prathamsakhare&repo=CryptoDataApplication&theme=radical)](https://github.com/prathamsakhare/CryptoDataApplication)
 [![Movie Search](https://github-readme-stats.vercel.app/api/pin/?username=prathamsakhare&repo=Movie-Search&theme=radical)](https://github.com/prathamsakhare/Movie-Search)
 
