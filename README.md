@@ -26,7 +26,7 @@ I'm a passionate Full Stack Web Developer based in India. I love to Code.
 
 ## 📚 What I'm currently working on
 
-- [CSC PMS](https://github.com/prathamsakhare/csc-dev)
+- [CSC PMS](https://csc-dev-henna.vercel.app/)
 
 ## 📈 GitHub Stats
 
